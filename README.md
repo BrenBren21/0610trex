@@ -1,2 +1,1 @@
-# 0610trex
-trex color oct 6
+# Juegos-compatibles-con-dispositivos
